@@ -12,5 +12,4 @@ Used intellij plugins for JavaFX to intialize project
 3. User can begin spray painting on said image, and can change color, density.
 4. User can save image to their machine
 5. User can come back to the proiect and load the intial image with no spray paint, and can either edit from there with an empty image, or can pull up a new image, or can pull up the saved image
-
-6. 
+6. User can erase spray paint from image
