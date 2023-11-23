@@ -88,6 +88,8 @@ public class HelloApplication extends Application {
         canvas.setOnMouseDragged(event -> {
             if (isSpraying) {
                 sprayPaint(event.getX(), event.getY());
+            } else {
+                erasePaint(event.getX(), event.getY());
             }
         });
     }
